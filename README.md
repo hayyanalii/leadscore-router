@@ -37,7 +37,7 @@ Every prediction is logged for auditing and drift detection.
 ### 1. Clone & setup
 
 ```bash
-git clone https://github.com/YOUR_hayyanalii/leadscore-router.git
+git clone https://github.com/hayyanalii/leadscore-router.git
 cd leadscore-router
 python -m venv venv
 venv\Scripts\activate          # Windows
